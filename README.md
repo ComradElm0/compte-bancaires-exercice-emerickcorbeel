@@ -1,4 +1,4 @@
-# Exercice sur les Comptes bancaires
+# testez sur le main.py
 ## Sujet
 
 Ecrire un programme qui implémente en POO un fonctionnement bancaire basique :  
