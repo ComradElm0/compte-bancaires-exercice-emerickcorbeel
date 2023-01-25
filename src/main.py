@@ -80,15 +80,3 @@ print("Au revoir\n", nomutilisateur)
 
 
 
-
-"""
-if __name__ == '__main__':
-    print("Let's start coding our bank application !")
-"""
-
-def CreationCompteCourant(nomutilisateur : str,numerodecompte: str,solde = 0):
-    comptecourant = CompteCourant(nomutilisateur,numerodecompte,solde)
-
-
-def CreationCompteEpargne(nomutilisateur : str,numerodecompte: str,solde = 0):
-    compteepargne = CompteEpargne(nomutilisateur,numerodecompte,solde)
